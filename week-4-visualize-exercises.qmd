@@ -20,19 +20,17 @@ and again restart R to be safe. That should fix the problem (which is a package 
 
 
 
-Try your code again
+
 ```{r}
 #| label: setup
 #| include: false
 library(tidyverse)
-
-
 ```
 
 
 
 ## Your Turn 0
-
+Did it on top already.
 Add a setup chunk that loads the tidyverse packages.
 
 
